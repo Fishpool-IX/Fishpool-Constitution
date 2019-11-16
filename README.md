@@ -2,7 +2,7 @@
 The new era of Fish Pool.
 
 ## #0
-> ![1][images/1.png]
+> ![1.png](images/1.png)
 > <p align="right">——yinyangshi</p>
 
 ## Contribution
