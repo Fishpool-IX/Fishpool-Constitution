@@ -15,5 +15,8 @@ The new era of Fish Pool.
 >
 > Mon Feb 10 2020 19:15:09 GMT+0800 (CST) (1581333309)
 
+## #2
+> 禁止yys装疯卖傻
+
 ## Contribution
 Send PR or AT `root@fish-pool`
