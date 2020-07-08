@@ -3,13 +3,13 @@ The new era of Fish Pool.
 
 ## #0 KawaiiZapic
 > Zapic可爱w
-> <p align="right">---`yinyangshi`</p>
+> <p align="right">--- `yinyangshi`</p>
 ### #0.AppendixA
 > ![0.png](images/0.png)
 
 ## #1
 > ![1.png](images/1.png)
-> <p align="right">---`yinyangshi`</p>
+> <p align="right">--- `yinyangshi`</p>
 ### 1.AppendixA
 > ![1a.png](images/1a.png)
 >
